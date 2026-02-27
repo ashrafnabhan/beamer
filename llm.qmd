@@ -1,0 +1,176 @@
+---
+title: "AI for Research"
+subtitle: "LLM for Reporting"
+author: "Prof. Ashraf Fawzy Nabhan"
+date: 12 May 2025
+format: 
+  beamer:
+    theme: CambridgeUS
+---
+
+# Can machines think?
+
+## **One fact and one question**
+
+**The Fact**
+
+::: nonincremental
+-   ***One must have natural intelligence to use an artificial intelligence***
+:::
+
+\vspace{.5cm}
+
+**The question**
+
+::: nonincremental
+-   ***Can machines think?*** - Alan Turing 1950
+
+    -   Summer workshop, ***The AI project*** - J McCarthy 1956
+:::
+
+# AI by hierarchy
+
+## Hierarchy
+
+-   **AI** \vspace{.5cm}
+
+-   **ML** \vspace{.5cm}
+
+-   **DL** \vspace{.5cm}
+
+-   **GenAI**
+
+## GPT is
+
+::: nonincremental
+-   a type of LLM.
+
+-   an ANN that is used in NLP by machines.
+
+-   is based on the transformer deep learning architecture, pre-trained on large data sets of unlabeled text, and able to generate novel human-like content
+:::
+
+# GenAI for Reporting
+
+## Context
+
+-   Have you really designed & conducted a rigorous research?
+
+## ICMJE
+
+-   **What is ICMJE?**
+
+-   **Have you read ICMJE recommendations?**
+
+-   **Have you fully implemented the recommendations?**
+
+## Do
+
+::: nonincremental
+-   Authors should describe how they used AI
+
+    -   If LLM was used for writing assistance, describe this in
+
+        -   the cover letter.
+        -   the acknowledgment section.
+:::
+
+## Do NOT
+
+::: nonincremental
+-   Authors should NOT list AI as a co-author, nor cite AI as an author.
+
+    -   GenAI does not satisfy authorship criteria.
+
+        -   Why? - Discussion point.
+:::
+
+## Classification for a well-informed decision
+
+::: nonincremental
+-   LLMs are divided into two parts
+
+    -   knowledge base.
+
+    -   language base.
+
+-   Please use the language base only.
+
+-   When people try to engage with the knowledge base, the models can hallucinate. 
+:::
+
+## Possible use
+
+::: nonincremental
+-   Copy editing
+
+-   Paraphrasing
+
+-   Pre-submission check e.g.
+
+    -   [Penelope](https://www.penelope.ai)
+
+    -   Paperpal preflight
+:::
+
+## Other uses
+
+::: nonincremental
+-   Provides fresh perspective on a research topic
+
+-   Writes conference abstracts
+
+-   Provides initial draft of scientific paper
+
+-   Suggests journals based on criteria provided
+:::
+
+## Limitations
+
+::: nonincremental
+-   Artificial hallucination
+
+-   Risk of bias
+
+-   Lack of originality
+
+-   Confidentiality
+:::
+
+## Hallucination
+
+::: nonincremental
+-   GenAI can “make up” information due to a process called “hallucination” —
+
+    -   When it doesn’t understand how two pieces of information relate.
+
+    -   It fills in the gap by generating information to make the two ends meet.
+
+    -   This leads to the generation of false and misleading pseudo-facts.
+:::
+
+## Rain Man
+
+![](images/rainman.jpg){fig-align="center" width="514"}
+
+## A Hands-on Case Study
+
+::: nonincremental
+-   Matcha for better health
+
+    -   Hallucination
+
+    -   Bias
+:::
+
+## Take-home Message
+
+::: nonincremental
+-   Microwave is not a Chef but a tool to aid the Chef.
+
+-   LLM is not a writer but a tool to aid the writer.
+:::
+
+## *Thank you, AFN*
+
+![](images/QA.jpg)

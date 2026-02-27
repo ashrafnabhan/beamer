@@ -1,0 +1,143 @@
+---
+title: "Search Strategy"
+subtitle: "Flawed beyond repair"
+---
+
+## Developing a search strategy
+
+1.  The population
+
+2.  The intervention
+
+3.  The study design
+
+## Search filters for RCTs in MEDLINE \[PubMed\] {.smaller}
+
+1.  randomized controlled trial \[pt\]
+
+2.  controlled clinical trial \[pt\]
+
+3.  clinical trials as topic \[mesh:noexp\]
+
+4.  randomized \[tiab\]
+
+5.  placebo \[tiab\]
+
+6.  randomly \[tiab\]
+
+7.  trial \[ti\]
+
+8.  #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7
+
+9.  animals \[mh\] NOT humans \[mh\]
+
+10. #8 NOT #9
+
+## MEDLINE: PubMed format
+
+1.  gestational diabetes\[MeSH Terms\]
+
+2.  gestational diabetes\[Title/Abstract\]
+
+3.  #1 OR #2
+
+4.  probiotics\[MeSH Terms\]
+
+5.  probiotic\*\[Title/Abstract\]
+
+6.  lactobacill\*\[Title/Abstract\]
+
+7.  Bifidobacteri\*\[Title/Abstract\]
+
+8.  #4 OR #5 OR #6 OR #7
+
+9.  #3 AND #8
+
+## MEDLINE: OVID format
+
+1.  exp gestational diabetes/
+
+2.  gestational diabetes.tw.
+
+3.  1 OR 2
+
+4.  exp probiotics/
+
+5.  probiotic\*.tw.
+
+6.  lactobacill\*.tw.
+
+7.  Bifidobacteri\*.tw.
+
+8.  4 OR 5 OR 6 OR 7
+
+9.  3 AND 8
+
+## MEDLINE: Web of Science format
+
+1.  MHX=gestational diabetes
+
+2.  (TI=gestational diabetes OR AB=gestational diabetes)
+
+3.  #1 OR #2
+
+4.  MHX=probiotics
+
+5.  (TI=probiotic\* OR AB=probiotic\*)
+
+6.  (TI=lactobacill\* OR AB=lactobacill\*)
+
+7.  (TI=Bifidobacteri\* OR AB=Bifidobacteri\*)
+
+8.  #4 OR #5 OR #6 OR #7
+
+9.  #3 AND #8
+
+## Peer review
+
+-   DB name, stating the platform for each
+
+-   Full search strategy for each DB, copy-paste exactly as run
+
+-   Limits and restrictions (e.g., language, study design)
+
+-   Boolean and proximity operators
+
+-   Subject headings
+
+-   Text word searching
+
+-   Synonyms, related terms, variant spellings, truncation and wildcards
+
+## An epidemic
+
+-   In an era of perverse academic incentives, the publication of ***redundant***, ***flawed***, ***misleading***, ***conflicted*** synthesis of evidence
+
+    -   has reached epidemic proportions
+
+    -   is a major threat to
+
+        -   credible science
+
+        -   quality healthcare
+
+## The science of trashing papers
+
+|  |  |  |
+|----|----|----|
+| low- or moderate-intensity statin plus ezetimibe | high-intensity statin monotherapy | Mar 2022 |
+| low- or moderate-intensity statin plus ezetimibe | high-intensity statin monotherapy | May 2024 |
+| low- or moderate-intensity statin plus ezetimibe | high-intensity statin monotherapy | Aug 2024 |
+| low- or moderate-intensity statin plus ezetimibe | high-intensity statin monotherapy | Nov 2024 |
+
+## Critical appraisal
+
+-   "low intensity statin\*" OR "low-intensity statin\*" OR "moderate intensity statin\*" OR "moderate-intensity statin\*"
+
+-   Lovastatin OR Mevinolin OR “6 Methylcompactin”
+
+-   Pubmed, SCOPUS, Web of Science, CENTRAL
+
+## Delusions {.center}
+
+**are always pathological**

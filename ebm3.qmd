@@ -1,0 +1,69 @@
+---
+title: "Eligibility criteria"
+subtitle: "The Art of Evidence Synthesis"
+subject: "Evidence Synthesis"
+---
+
+# Eligibility criteria
+
+## Analytic framework
+
+![](images/analytic-frame-2.png)
+
+## Population
+
+-   Clinical & Demographic characteristics + SETTING
+
+-   Consider Equity (gender, economic status … etc.)
+
+-   Challenge: studies in which only some participants meet your criteria
+
+## Interventions
+
+-   Dose, route, timing, frequency, duration, etc.
+
+-   Be clear what you mean by ‘no intervention’
+
+-   Can remain open to any comparisons, but be explicit
+
+## Outcomes
+
+-   Identify meaningful primary and secondary outcomes
+
+    -   Domain e.g. Hemoglobin
+
+    -   Specific measurement(s) e.g. g/dl
+
+    -   Specific metric(s) e.g. change from baseline
+
+    -   Time point(s) e.g. 24 hours postoperative
+
+-   Consider core outcome sets
+
+## Study design
+
+Select the appropriate design for the question e.g.,
+
+-   Prevalence: cross-sectional studies
+
+-   Diagnosis: DTA studies
+
+-   Therapy: RCT
+
+    -   Do you know the different types of a randomized trial?
+
+## Endgames
+
+-   Four teams
+
+    -   Formulate a well-defined review question
+
+    -   Draw an analytic framework
+
+    -   Define the eligibility criteria
+
+    -   Determine the study design in details
+
+## See you next week
+
+> Cheers

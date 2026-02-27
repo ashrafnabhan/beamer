@@ -1,0 +1,128 @@
+---
+title: "Finding the Evidence"
+subtitle: "Standards for Evidence Synthesis"
+---
+
+## Preample
+
+*Training objective: To develop a comprehensive valid search strategy*
+
+\vspace{1cm}
+
+**Pre class assessment**
+
+Write a search for studies that would answer the following question
+
+-   For adults with low back pain, does paracetamol compared with placebo, improve quality of life?
+
+## Bibliographic databases
+
+| Database | Provider  | Platform         |
+|:---------|:----------|:-----------------|
+| MEDLINE  | NLM       | PubMed           |
+| CENTRAL  | Wiley     | Cochrane Library |
+| MEDLINE  | Clarivate | Web of Science   |
+
+: {tbl-colwidths="\[30,30,60\]"}
+
+## DB, explained
+
+-   consists of a 2D table
+
+    -   rows = records
+
+    -   columns = fields (each field = a specific type of data)
+
+-   Fields may contain either free or controlled data
+
+| Field      | tag    |
+|:-----------|:-------|
+| Title      | \[ti\] |
+| Abstract   | \[ab\] |
+| MeSH terms | \[mh\] |
+
+: {tbl-colwidths="\[50,50\]"}
+
+## Concepts and terms
+
+-   Concepts
+
+    -   Population
+
+    -   Intervention
+
+    -   Study design
+
+-   Terms are synonyms for each concept
+
+    -   use your knowledge or browse the mesh database
+
+## Structure
+
+-   Line by line format
+
+    -   Each line = one term in one specific field
+
+    -   Must search in both free and controlled fields
+
+-   Boolean operators
+
+    -   use OR to combine synonyms
+
+    -   use AND to combine concepts
+
+## Peer review
+
+-   DB name, stating the platform for each
+
+-   Full search strategy for each DB, copy-paste exactly as run
+
+-   Limits and restrictions (e.g., publications status)
+
+-   Boolean and proximity operators
+
+-   Subject headings
+
+-   Text word searching
+
+-   Synonyms, related terms, variant spellings, truncation and wildcards
+
+## Critical appraisal
+
+-   "low intensity statin\*" OR "low-intensity statin\*" OR "moderate intensity statin\*" OR "moderate-intensity statin\*"
+
+-   Lovastatin OR Mevinolin OR “6 Methylcompactin”
+
+-   Pubmed, SCOPUS, Web of Science, CENTRAL
+
+## Errors
+
+-   An analysis of published SRs found that 91% of searches contained at least one search error.
+
+-   Errors included
+
+    -   spelling errors
+
+    -   the omission of spelling variants and truncations
+
+    -   the use of incorrect Boolean operators and line numbers
+
+    -   inadequate translation of the search strategy for different databases
+
+    -   misuse of controlled vocabulary and free-text terms
+
+    -   redundancy in search terms
+
+## Endgame
+
+For adults with low back pain, does paracetamol compared with placebo, improve quality of life?
+
+-   Conceptual knowledge: Identify the concepts.
+
+-   Procedural knowledge: develop a comprehensive search strategy
+
+## **See you next week** 
+
+> Prepare for a practical quiz
+>
+> **Cheers**

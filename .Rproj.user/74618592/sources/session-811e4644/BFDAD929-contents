@@ -1,0 +1,12 @@
+author: "Prof. Ashraf Fawzy Nabhan"
+subject: "Evidence-Based Healthcare"
+keywords: "EBM"
+format: 
+  beamer: 
+    aspectratio: 169
+    navigation: horizontal
+    theme: CambridgeUS
+    fontsize: 17pt
+    slide-level: 2
+    section-titles: true
+editor: visual

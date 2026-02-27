@@ -1,0 +1,96 @@
+---
+title: "Menopause and MHT"
+format: 
+  beamer:
+    incremental: false
+---
+
+# Menopause
+
+## Principles
+
+-   Individualized care
+
+-   Information and support
+
+## Reproductive woman's span
+
+-   **Nabhan** AF et al. Women's reproductive span. ***Human reproduction open*** vol. 2022,2 hoac005. 11 Feb. 2022.
+
+-   <https://doi.org/10.1093/hropen/hoac005>
+
+## Identifying menopause \[men-o-pause\]
+
+-   The ***median*** age of menopause is 51 years
+
+-   Identify menopause, without laboratory tests, in otherwise healthy women who are aged 45 or over and have menopause-associated symptoms if they have not had a period for at least 12 months and are not using hormonal contraception
+
+-   Do not use the following laboratory and imaging tests to identify menopause in people aged 45 or over: AMH, E2, inhibin, AFC, ovarian volume
+
+## Identifying early menopause and POI
+
+-   Consider using serum FSH level to confirm menopause ONLY:
+
+    -   in women aged 40 to 45 with menopause-associated symptoms (Early menopause)
+
+    -   in women under 40 in whom menopause is suspected (POI)
+
+# Interventions
+
+## Principles
+
+-   This section only covers people aged 40 or over.
+
+-   Take medical history into account before offering treatment for menopause associated symptoms
+
+## Options
+
+-   **Menopausal Hormone Therapy**
+
+    -   Estrogens: conjugated estrogens, 17-$β$-estradiol (micronized, patch, gel)
+
+    -   Progestins
+
+    -   Combination hormone therapy preparations
+
+    -   Tissue selective estrogen complex (TSEC).
+
+    -   Synthetic SERM: Tibolone
+
+-   **Cognitive behavioral therapy**
+
+    -   face-to-face or remote sessions
+
+    -   individual or group sessions
+
+    -   self-help options
+
+-   **Complementary therapies**
+
+## Vasomotor symptoms
+
+-   Offer HRT to people with vasomotor symptoms associated with menopause.
+
+-   Consider menopause-specific CBT as an option for vasomotor symptoms associated with menopause:
+
+    -   in addition to HRT or
+
+    -   for people for whom HRT is contraindicated or
+
+    -   for those who prefer not to take HRT
+
+-   Do not routinely offer SSRIs, SNRIs or clonidine as first-line treatment for vasomotor symptoms alone.
+
+## Genitourinary symptoms
+
+-   Include vulvovaginal dryness, dysparuenia, dysuria
+
+-   Offer vaginal estrogen to women with genitourinary symptoms associated with menopause (including those using systemic HRT) and review regularly
+
+-   Offer non-hormonal moisturizers or lubricants to women with a ***personal history of breast cancer*** and genitourinary symptoms associated with menopause.
+
+## Altered sexual function
+
+-   Consider testosterone supplementation for people with low sexual desire associated with menopause if HRT alone is not effective
+
+# Thank you

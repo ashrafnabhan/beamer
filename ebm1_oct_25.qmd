@@ -1,0 +1,78 @@
+---
+title: "Trusted Evidence"
+subtitle: "in the era of misinformation"
+---
+
+## I am here
+
+-   To spot misinformation \vspace{.5cm}
+
+-   To find what works in healthcare \vspace{.5cm}
+
+-   To produce trusted evidence \vspace{.5cm}
+
+## The scandal of medical research
+
+![The landscape of published systematic reviews](images/epidemic.jpg){fig-align="center" width="500"}
+
+## The infodemic
+
+Misinformation has become an epidemic
+
+We must use explicit, planned methods to identify, appraise, & summarize empirical research to answer specific questions
+
+1.  Prevalence
+2.  Etiology
+3.  Diagnosis
+4.  Therapy
+5.  Prognosis
+
+## Evidence to Decision
+
+![Evidence to Decision Framework](images/research2care.png){fig-align="center" width="528"}
+
+# The non-sense
+
+## Mozzarella for PhD
+
+![Mozzarella intake per capita for improving outcomes](images/cheese.jpg){fig-align="center" width="310" height="260"}
+
+## **The Parachute enigma**
+
+![Parachute use to prevent death and major trauma related to gravitational challenge: systematic review of randomized controlled trials](images/parachute.jpg){fig-align="center" width="466"}
+
+## The Ivermectin hoax
+
+-   Fabricated RCTS
+
+-   Flawed systematic review
+
+## Clinical vs statistical significance
+
+![](images/clin_not_stat.jpg)
+
+## Real Clinicians make clinical decisions
+
+::::: columns
+::: {.column width="60%"}
+\vspace{.5cm}
+
+-   The size of a treatment effect \vspace{.5cm}
+
+-   The severity of the condition \vspace{.5cm}
+
+-   The balance between benefits and harms
+:::
+
+::: {.column width="40%"}
+![](images/rip.jpg){width="200" height="225"}
+:::
+:::::
+
+## Process of producing trusted evidence
+
+![From inception to implementation](images/steps.jpg){fig-align="center"}
+
+## **See you next week**
+
+> **Cheers**

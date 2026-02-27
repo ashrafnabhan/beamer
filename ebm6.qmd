@@ -1,0 +1,76 @@
+---
+title: "Measures of effects and accuracy"
+subtitle: "Standards for Evidence Synthesis"
+---
+
+# Effect measures
+
+## Types of outcome data
+
+-   **Dichotomous data**
+
+-   **Continuous data**
+
+-   **Time-to-event data**
+
+## Dichotomous data
+
+Summarizing data: risk \| odds
+
+|        | SSI \vspace{12pt} | No SSI \vspace{12pt} |
+|--------|-----|--------|
+| SAP    | 80  | 20  \vspace{12pt}   |
+| No SAP | 50  | 50     |
+
+: {tbl-colwidths="\[30,30,30\]"}
+
+## Dichotomous data
+
+-   Risk and odds are NOT identical
+
+-   Risk is expressed as a decimal number between 0 and 1 or as a percentage
+
+-   Odds is expressed as a ratio of two integers. It can be any value from 0 to infinity
+
+## Dichotomous data
+
+-   Effect measures:
+
+    1.  the risk ratio (RR)
+
+    2.  the odds ratio (OR)
+
+    3.  the risk difference (RD)
+
+    4.  the number needed to treat (NNT)
+
+## Continuous data
+
+-   Summarizing data: mean, SD
+
+-   Effect measures:
+
+    1.  Difference in means
+
+    2.  standardized mean difference
+
+    3.  ratio of means
+
+## Time-to-event data
+
+-   Summarizing data: hazard
+
+-   Effect measure: hazard ratio
+
+# DTA
+
+## Measures of clinical tests accuracy
+
+|                     | Disease \vspace{12pt} | No disease \vspace{12pt} |
+|:--------------------|:--------|:-----------|
+| Index test positive | TP      | FP    \vspace{12pt}     |
+| Index test negative | FN      | TN         |
+
+: {tbl-colwidths="\[30,30,30\]"}
+
+# Cheers

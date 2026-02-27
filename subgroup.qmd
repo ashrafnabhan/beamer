@@ -1,0 +1,28 @@
+---
+title: "Subgroup Analyses"
+subtitle: "Standards for Evidence Synthesis"
+---
+
+# Subgroup Analyses
+
+## What to look for
+
+-   Is there a statistically significant difference between the subgroups?
+
+-   Is there a quantitative or qualitative difference between the subgroups?
+
+-   Is there a clinically important difference between the subgroups?
+
+-   Is heterogeneity reduced after doing the subgroup analysis?
+
+-   Is the difference between subgroups plausible/realistic?
+
+## Example 1
+
+![](images/y.jpg)
+
+## Example 2
+
+![](images/z.jpg){width="358"}
+
+# Thank you

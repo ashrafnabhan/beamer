@@ -1,0 +1,58 @@
+---
+title: "The Forest Plot"
+subtitle: "Standards for Evidence Synthesis"
+---
+
+# The Plot Explained
+
+## State-of-the-art example
+
+![](images/authors.png)
+
+## The outcome
+
+-   Recurrence of vulvovaginal candidiasis at the end of follow up
+
+-   A binary outcome
+
+    -   Numerical: point estimate (RR) for each study, then pooled summary (Weighted average).
+
+    -   Graphical: Forest plot
+
+## The Plot
+
+![](images/1.png)
+
+## The Plot
+
+![](images/2.png)
+
+## The Plot
+
+![](images/3.png)
+
+## The Plot
+
+![](images/4.png)
+
+## The Plot
+
+![](images/5.png)
+
+## The Plot
+
+![](images/6.png)
+
+## The Plot
+
+![](images/7.png)
+
+## The Plot
+
+![](images/8.png)
+
+## Eyeballing to detect heterogeneity
+
+![](images/clipboard-83334266.png)
+
+# Thank you

@@ -1,0 +1,203 @@
+---
+title: "SPIRIT 2025"
+subtitle: "Writing Clinical Trials protocols"
+subject: "Clinical Research"
+---
+
+## Learning objectives
+
+-   You're ready to write the protocol for your trial.
+
+-   How can SPIRIT help make your job easier?
+
+-   In this training, I'll tell you
+
+    -   What SPIRIT is
+
+    -   why it is useful
+
+    -   how to use it
+
+# What SPIRIT is
+
+## SPIRIT is a reporting guideline
+
+-   The SPIRIT Checklist includes 34 items
+
+-   These items follow the structure of a trial protocol covering
+
+    -   Administrative information: 3 items
+
+    -   Open science: 5 items
+
+    -   Ethics: 5 items
+
+    -   Introduction: 2 items
+
+    -   Methods: 19 items
+
+## Administrative information
+
+1.  Title and structured summary
+
+2.  Protocol version
+
+3.  Roles and responsibilities
+
+## Open science
+
+1.  Trial registration
+
+2.  Protocol and statistical analysis plan
+
+3.  Data sharing
+
+4.  Funding and conflicts of interest
+
+5.  Dissemination policy
+
+## Ethics
+
+1.  Research ethics approval 
+
+2.  Protocol amendments 
+
+3.  Consent or assent
+
+4.  Confidentiality
+
+5.  Ancillary and post-trial care
+
+## Introduction
+
+1.  Background and rationale
+
+2.  Objectives
+
+# What SPIRIT is: Methods
+
+## Patient and public involvement, trial design
+
+1.  Patient and public involvement
+
+2.  Trial design
+
+## Participants, interventions, and outcomes
+
+1.  Trial setting
+
+2.  Eligibility criteria
+
+3.  Intervention and comparator
+
+4.  Outcomes
+
+5.  Harms
+
+6.  Participant timeline
+
+7.  Sample size
+
+8.  Recruitment
+
+## Assignment of interventions
+
+1.  Randomization: Sequence generation
+
+2.  Allocation concealment mechanism
+
+3.  Implementation
+
+4.  Blinding
+
+## Data collection, management, and analysis
+
+1.  Data collection methods
+
+2.  Data management
+
+3.  Statistical methods
+
+## Monitoring
+
+1.  Data monitoring committee
+
+2.  Trial monitoring
+
+# Why SPIRIT is useful
+
+## SPIRIT and trial registration
+
+-   SPIRIT supports trial registration
+
+-   SPIRIT items cover all ClinicalTrials.gov requirements \[WHO and ICJME\]
+
+## SPIRIT and the protocol
+
+-   There are two different types of trial protocol that you might write:
+
+    -   a trial protocol article that you might publish in a journal article
+
+    -   a full trial protocol that you might use for ethics or regulatory approval
+
+-   SPIRIT assists in the reporting of both types of protocol
+
+## Key message
+
+-   ***SPIRIT does not tell you how to design your trial, but it does make you think about the important design choices, so you won't sleepwalk into bad design*****.**
+
+## Why researchers use SPIRIT
+
+-   SPIRIT assists in writing a well designed and complete trial protocol
+
+-   A well designed and complete trial protocol is the key to
+
+    -   approvals by the trial funder, IRB, and regulator
+
+    -   smooth and efficient trial conduct
+
+-   Using SPIRIT for the protocol helps in writing up the trial results
+
+    -   CONSORT is the companion guideline for reporting trial results
+
+    -   When the time comes to write up your trial results, half the paper is planned out already.
+
+# How to use SPIRIT
+
+## Use SPIRIT as a template
+
+-   SPIRIT makes the perfect outline for writing the trial protocol
+
+-   If you're writing a trial protocol to submit to a journal for publication:
+
+    -   Cite SPIRIT
+
+    -   Be careful:
+
+        -   Do NOT write "This trial will be CONDUCTED following SPIRIT
+
+        -   Always write "REPORTED following SPIRIT"
+
+## Remember
+
+-   ***SPIRIT does not tell you how to design your trial, but it does make you think about the important design choices, so you won't sleepwalk into bad design***.
+
+## Note
+
+-   Publishing your trial protocol as a journal article gives you
+
+    -   academic credit for your work
+
+    -   greater dissemination of the trial
+
+    -   a more complete public record than the trial registry
+
+-   Readers should never have to assume what you did
+
+## Query
+
+-   Can you share a thesis trial protocol that has been published in a peer-reviewed journal?
+
+## Practice and Feedback
+
+![](images/WhatsApp%20Image%202025-09-30%20at%2020.40.38.jpeg){fig-alt="Feedback" fig-align="center" width="287"}

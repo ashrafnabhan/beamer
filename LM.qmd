@@ -1,0 +1,161 @@
+---
+title: "Uterine fibroids"
+---
+
+## Background
+
+-   LM is a true neoplasm arising from single neoplastic smooth muscle cell (unicellular)
+
+-   Incidence: Nearly 20-30% (most common tumor in females)
+
+-   Age : Range 30-40 (reproductive period)
+
+-   High risk factors
+
+    -   Low parity, nullipara, infertile, nuns, black, familial.
+
+    -   Chromosome defects: translocations & deletions most often in chromosome 12.
+
+-   Regulation of growth: hormonal (E - P) and Growth factors
+
+## Pathology
+
+-   Macroscopic
+
+    -   site
+
+        -   uterus 99% (corpus 92-96% + cervix 2-8%). Stump leiomyoma is rare.
+
+        -   extra uterine 1% (broad ligament, round ligament, vagina, vulva, tubes)
+
+    -   appearance
+
+-   Microscopic: interlacing smooth muscles (nuclei are short fat rods with rounded ends) & fibrous tissue (nuclei are thinner and spindle shaped). Small tumors (1 cm) are formed only of muscle tissue.
+
+-   Pathological changes in the tumor
+
+## History
+
+-   asymptomatic
+
+-   The most common symptom is menorrhagia heaviest on the second & third days (flooding).
+
+-   myoma does not cause metrorrhagia unless ....
+
+-   myoma does not cause pain unless ......
+
+-   It NEVER causes amenorrhea.
+
+-   dysmenorrhea: congestive or spasmodic (with a submucous polyp).
+
+-   pelviabdominal swelling
+
+-   subfertility
+
+## Examination
+
+-   general examination: anemia
+
+-   abdominal examination: pelviabdominal mass
+
+-   PV examination:
+
+    -   enlarged uterus: either asymmetrical (subserous or intramural) or symmetrical (submucous or small intramural)
+
+    -   mass in Douglas pouch, or in utervesical pouch,
+
+    -   Broad ligamentary or adnexal mass
+
+    -   polyp protruding from the cervix.
+
+## Investigations
+
+-   laboratory: CBC
+
+-   radiology:
+
+    -   **Ultrasound** (TAS or TVS)
+
+    -   IVP (broad ligamentary or cervical tumors),
+
+-   endoscopy: hysteroscopy or laparoscopy
+
+-   biopsy: D&C in cases of metrorrhagia
+
+## Treatment
+
+-   correct iron deficiency anemia
+
+-   counsel for operative treatment
+
+-   No surgical interventions if asymtomatic (No data to support hysterectomy or myomectomy in women with asymptomatic LM, but there is clear evidence that both are associated with the risk of complications) particularly with a small uterus (\<12 weeks) and age near menopause
+
+## Hysterectomy
+
+-   is the only definitive therapy.
+
+-   Based on age, fertility requirement, and wish to spare the uterus
+
+-   Route: Vaginal or abdominal
+
+-   If abdominal: total or subtotal techniques may be used
+
+## Uterus sparing interventions
+
+All uterus-sparing treatments for symptomatic LM leave some risk of persistent or recurrent LM resulting in the need for additional therapy.
+
+## Myomectomy
+
+-   indications: a young patient, wish to retain fertility, wish to spare the uterus (refusing hysterectomy)
+
+-   Complications:
+
+    -   intraoperative bleeding
+
+    -   postoperative: adhesions, menorrhagia, infertility, recurrent, persistent or new LM, higher CS rate
+
+-   Laparoscopic myomectomy
+
+-   hysteroscopic resection of a single submucous polyp
+
+-   Polypectomy in single submucous polyp
+
+## Hormonal
+
+-   GnRH analogues
+
+    -   As a primary conservative therapy: insufficient evidence
+
+    -   Adjuvant: for 3 months before surgery (hysterectomy or myomectomy)
+
+        -   correction of pre-operative iron deficiency anemia, if present,
+
+        -   reduce uterine volume, uterine size and fibroid volume
+
+        -   reduce intra-operative blood loss.
+
+        -   reduced operating time
+
+        -   reduced duration of hospital stay.
+
+-   Insufficient evidence for other pharmacological interventions
+
+## Uterine artery Embolization
+
+-   Advantages
+
+    -   improves LM-related symptoms e.g. heavy menstrual loss
+
+    -   decreases mean LM volume.
+
+    -   reduces length of hospital stay compared to either hysterectomy or myomectomy.
+
+-   Disadvantages: a higher rate of minor complications:
+
+    -   vaginal discharge,
+
+    -   higher readmission rates after discharge
+
+    -   elevated FSH levels post UAE indicates possible ovarian dysfunction.
+
+# Thank you

@@ -1,0 +1,42 @@
+---
+title: "Observational Studies"
+author: "Prof. Ashraf Fawzy Nabhan"
+---
+
+# Hands on
+
+## Essentials
+
+-   Understand the fundamentals of observational studies
+
+-   Assemble the team
+
+    -   Subject area Expert
+
+-   Define the question
+
+-   Draft the study protocol
+
+    -   CRF
+
+    -   Sample size calculation
+
+## **Built on wrong, it cannot be right** 
+
+-   The case of T. Marshall (Int J Epidemiol 2004) 
+
+-   Babies conceived by ICSI (‘cases’) were compared with a 'control' group of normally conceived children. The comparison was made with respect to neurodevelopmental status at 2 years of age.
+
+## Protocol
+
+## Sample size
+
+## CRF
+
+# Ideas
+
+## Question-design pairs
+
+## Brain storming
+
+## Thank you

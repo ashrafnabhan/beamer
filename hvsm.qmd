@@ -1,0 +1,166 @@
+---
+title: "Human vs Machine"
+subtitle: "Validity vs Hallucination"
+date: 20 May 2025
+format: 
+  beamer:
+    incremental: false
+---
+
+## **Pre-workshop activities**
+
+-   Search for studies that would answer the following question:
+    -   For women with recurrent vulvovaginal candidiasis, does oral compared with topical maintenance antifungal therapy, improve quality of life?
+-   Assess the quality of a relevant reference.
+-   Create a case report form for your new study.
+
+## The Bottom line
+
+![](images/idiot.jpeg){fig-align="center"}
+
+# Finding relevant references
+
+## Bibliographic databases
+
+| Database | Provider       | Platform         |
+|:---------|:---------------|:-----------------|
+| MEDLINE  | NLM            | PubMed           |
+| MEDLINE  | Clarivate      | Web of Science   |
+| CENTRAL  | Wiley          | Cochrane Library |
+| Embase   | Wolters Kluwer | Ovid             |
+| Embase   | Elsevier       | Embase           |
+
+: {tbl-colwidths="\[25,25,50\]"}
+
+## DB, explained
+
+-   consists of a 2D table
+
+    -   rows: records.
+
+    -   columns: fields (each field = a specific type of data)
+
+-   Fields may contain either free or controlled data
+
+| Field            | tag    |
+|:-----------------|:-------|
+| Title            | \[ti\] |
+| Abstract         | \[ab\] |
+| MeSH terms       | \[mh\] |
+| Publication type | \[pt\] |
+
+: {tbl-colwidths="\[50,50\]"}
+
+## Concepts and terms
+
+-   Concepts
+
+    -   Population
+
+    -   Intervention
+
+    -   Study design
+
+-   Terms are synonyms for each concept: browse the MeSH database
+
+# Quality assessment
+
+## Combining trash
+
+![](images/trash_metaanalysis.png)
+
+## Domains
+
+![](images/rob.png)
+
+# Essential documents
+
+## The CRF
+
+::: nonincremental
+-   CRF is Mandatory to
+
+    -   collect data that can be verified and used for analysis
+
+    -   guarantee the quality of analyses
+
+    -   validate and replicate findings
+
+-   CRF must
+
+    -   reflect the protocol (i.e. collect the variables of the study)
+
+    -   be developed and tested in advance
+:::
+
+## Designing a CRF
+
+::: nonincremental
+-   Use of clear, simple, neutral and concise questions
+
+-   Provide clear instructions in bold and italics
+
+-   Use visual cues e.g. check boxes to clearly indicate place & format of data
+
+-   Collect raw data e.g. weight and height rather than BMI
+
+-   Specify the unit of measurement
+
+-   Indicate the number of decimal places
+
+-   CRFs must include a front page with consent check box and eligibility check
+:::
+
+## Completing a CRF
+
+::: nonincremental
+-   Always use a black or blue ballpoint pen
+
+-   Never leave blank spaces
+
+-   Avoid using the ambiguous phrase ‘NA’.
+
+-   Never over-write an entry.
+
+    -   In case of error Cross out the wrong text.
+
+    -   The wrong text Must remain visible.
+
+    -   Write the correct answer besides and Sign.
+
+-   Never write the patient’s full name
+:::
+
+## Poorly designed CRF
+
+Date of visit: \_\_\_\_\_\_\_\_\_\_\_
+
+Blood pressure: \_\_\_\_\_ / \_\_\_\_\_
+
+Pulse: \_\_\_\_\_
+
+Temperature: \_\_\_\_\_
+
+Respiration: \_\_\_\_\_
+
+# Post-workshop activities
+
+## Well designed CRF
+
+Data of Birth (DD/MM/YYYY) $□$$□$/ $□$$□$/ $□$$□$$□$$□$
+
+Gender M $□$ 1 – F $□$ 2
+
+Height (cm) $□$$□$$□$.$□$
+
+Weight (Kg) $□$$□$$□$.$□$$□$
+
+Smoker. Yes $□$ 1 – No $□$ 2
+
+## Hand-made
+
+-   The comprehensive search strategy
+
+-   The quality assessment
+
+# Thank you - AN

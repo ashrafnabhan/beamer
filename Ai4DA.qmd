@@ -1,0 +1,57 @@
+---
+title: "AI for Data Analysis"
+date: 27 May 2025
+format: 
+  beamer:
+    incremental: false
+---
+
+# Data Analysis
+
+## **What?**
+
+-   Descriptive
+
+-   Exploratory
+
+-   Inferential
+
+## Tools
+
+-   Spreadsheets: Microsoft Excel, Google Sheets.
+
+-   Data Visualization: Tableau, Power BI.
+
+-   Programming Languages: Python, R.
+
+-   Statistical Software: SAS, SPSS.
+
+-   Big Data Processing: Apache Spark.
+
+## AI integration
+
+-   Automating Processes
+
+-   Data cleaning
+
+-   Enhancing interpretation
+
+# Ways to use AI in Data Analysis
+
+::: nonincremental
+-   Generating code & debugging errors
+
+-   Cleaning data
+
+-   Explaining analysis
+
+-   Creating reports
+:::
+
+## Hand-made
+
+-   The comprehensive search strategy
+
+-   The quality assessment
+
+# Thank you - AN

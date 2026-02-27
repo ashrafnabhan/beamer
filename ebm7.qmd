@@ -1,0 +1,12 @@
+---
+title: "Meta-analysis"
+subtitle: "Standards for Evidence Synthesis"
+---
+
+# Pairwise meta-analysis
+
+## Meta-analysis of Dichotomous data
+
+![](images/clipboard-3822265854.png)
+
+# Thank you
