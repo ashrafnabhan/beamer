@@ -1,0 +1,6 @@
+---
+title: "CARE Writer"
+author: "Prof. Ashraf Fawzy Nabhan"
+format: beamer
+editor: visual
+---
