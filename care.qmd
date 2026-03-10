@@ -3,6 +3,7 @@ title: "CARE Writer"
 author: "Prof. Ashraf Fawzy Nabhan"
 format: beamer
 editor: visual
+section-titles: false
 ---
 
 ## **What Happened**
@@ -12,17 +13,11 @@ Document the complete case story including patient information, timeline, clinic
 ## **Structure: Shared Tasks**
 
 -   Create comprehensive timeline 
-
 -   Write case narrative 
-
 -   Document patient demographics 
-
 -   Record clinical findings 
-
 -   Document diagnostic assessments 
-
 -   Describe therapeutic interventions 
-
 -   Record follow-up and outcomes 
 
 ## Why it matters: Individual tasks
