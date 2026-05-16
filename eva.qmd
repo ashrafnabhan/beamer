@@ -1,0 +1,211 @@
+---
+title: "Valid research"
+subtitle: "For Better Health"
+date: 15 May 2026
+---
+
+# Designing Clinical Research 
+
+## What we’ll cover today
+
+- What is valid research?
+
+- Types of clinical research
+
+- Bias in clinical research
+
+- Critical appraisal
+
+- AI role
+
+## What is Validity?
+
+- Premises
+
+- Conclusion
+
+## Types of clinical studies
+
+- Observational studies
+
+- Clinical trials
+
+## Cross-sectional studies
+
+- Sample is selected without regard to exposure or disease
+
+- Measurements made at the same time
+
+- Describe variables and their distribution patterns
+
+- For prevalence (pre-test probability)
+
+## Case-Control studies
+
+- Participants are selected based on only one OUTCOME
+
+- Retrospective for exposure(s)
+
+- Estimate association (OR and its 95% CI).
+
+- can NOT estimate disease incidence or prevalence
+
+## Cohort studies
+
+- Study begins: measure exposure(s) in the assigned cohort
+
+- Follow up
+
+- Study ends: measure outcome(s)
+
+## Clinical trials
+
+- Type of trial: parallel, multi-arm, cross-over, factorial, etc
+
+- Unit of allocation: individual, cluster
+
+- Framework: superiority, noninferiority
+
+- Allocation: Non-random, Quasi-random, Random
+
+- Controlled or not
+
+- Phase: Only for drug trials
+
+## Bias in clinical studies
+
+- What is bias?
+
+- What do we assess?
+
+- Overarching groups:
+
+  - Selection
+
+  - Information
+
+## Bias in clinical studies
+
+- Allocation of intervention bias
+
+- Attrition bias
+
+- Neyman bias
+
+- Misclassification bias
+
+- Temporal ambiguity bias
+
+- Recall bias
+
+- Reporting bias
+
+## Critical appraisal
+
+- Critical appraisal addresses
+
+  - Internal validity
+
+  - External validity
+
+  - Statistical validity
+
+  - Clinical relevance
+
+- RoB is nested within critical appraisal.
+
+## Critical appraisal
+
+- Appropriate design
+
+- Risk of Bias
+
+- Sound statistical analysis
+
+- Clinically meaningful results
+
+- Generalizable findings
+
+# Critical Appraisal hands on
+
+## Cross-sectional study Comments
+
+- Study label indicates a conceptual confusion.
+
+- Selection bias. 
+
+- Temporal ambiguity bias.
+
+- Sample size issues.
+
+- Data analysis errors – AOR 0.37 (0.11 to 0.35)
+
+## Case control study Comments
+
+- Is this a case-control design? 
+
+- Misclassification bias
+
+- Is the temporal sequence clear?
+
+- No control for Confounding variables
+
+- EEG interpretation workflow concerns
+
+- Sample size issues 
+
+- Data analysis issues – check Table 3 
+
+- Reference hallucination: reference 12
+
+## RCT Comments
+
+- Selection bias
+
+- Serious contradiction in retinopathy inclusion criterion
+
+- Only one HbA1c measurement at the end of follow up
+
+- Intervention was not standardized
+
+- Composite outcome problem
+
+- Follow-up Duration
+
+## RCT Comments - cont’d
+
+- Intention-to-Treat Analysis concern
+
+- Sample Size issues 
+
+- Statistical analysis issues: HBA1c at 6 months 
+
+  - t = **16.045**   P-value = **2.01e-26** 
+
+- Please read the protocol. Any comment?
+
+## AI for clinicians
+
+A clinician with strong methodological grounding can identify a plausible but incorrect AI comment
+
+## Potential applications
+
+| Assist in            | Required competency                               |
+|----------------------|---------------------------------------------------|
+| Literature search    | Construct a valid search strategy                 |
+| Literature screening | Determine the criteria for selecting studies      |
+| Data extraction      | Inspect, analyze, and interpret Data              |
+| Critical appraisal   | Assess the risk of bias                           |
+| Proofreading         | Draft a manuscript (English for Academic writing) |
+
+## Don’t
+
+- Use AI to replace critical thinking.
+
+- Rely on AI for conclusions.
+
+- Copy-paste content without understanding it.
+
+- Trust references without verification (AI hallucinates).
+
+# **Thank you**
