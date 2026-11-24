@@ -10,5 +10,5 @@ format:
     slide-level: 2
     fontsize: 14pt
     section-titles: true
+    section-numbers: false
     incremental: false
-editor: visual
