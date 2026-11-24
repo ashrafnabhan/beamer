@@ -16,10 +16,10 @@ title: "Standards for Evidence Synthesis"
 
 Summarizing data: risk \| odds
 
-|        | SSI \vspace{12pt} | No SSI \vspace{12pt} |
-|--------|-------------------|----------------------|
-| SAP    | 80                | 20 \vspace{12pt}     |
-| No SAP | 50                | 50                   |
+|                              | SSI \vspace{12pt} | No SSI \vspace{12pt} |
+|:-----------------------------|:------------------|:---------------------|
+| Preop Antibiotic Prophylaxis | 80                | 20 \vspace{24pt}     |
+| No Antibiotic Prophylaxis    | 50                | 50                   |
 
 ## Dichotomous data
 
@@ -33,13 +33,13 @@ Summarizing data: risk \| odds
 
 - Effect measures:
 
-  -  the risk ratio (RR)
+  - the risk ratio (RR)
 
-  -  the odds ratio (OR)
+  - the odds ratio (OR)
 
-  -  the risk difference (RD)
+  - the risk difference (RD)
 
-  -  the number needed to treat (NNT)
+  - the number needed to treat (NNT)
 
 ## Continuous data
 
@@ -47,11 +47,11 @@ Summarizing data: risk \| odds
 
 - Effect measures:
 
-    -  Difference in means
+  - Difference in means
 
-    -  standardized mean difference
+  - standardized mean difference
 
-    -  ratio of means
+  - ratio of means
 
 ## Time-to-event data
 
@@ -59,12 +59,11 @@ Summarizing data: risk \| odds
 
 - Effect measure: hazard ratio
 
-
 ## Measures of clinical tests accuracy
 
 |                     | Disease \vspace{12pt} | No disease \vspace{12pt} |
 |:--------------------|:----------------------|:-------------------------|
-| Index test positive | TP                    | FP \vspace{12pt}         |
+| Index test positive | TP                    | FP \vspace{24pt}         |
 | Index test negative | FN                    | TN                       |
 
 # The Plot Explained
@@ -115,7 +114,6 @@ Summarizing data: risk \| odds
 
 ![](images/clipboard-83334266.png)
 
-
 ## Trash synthesis
 
 - In an era of perverse academic incentives, the publication of ***redundant***, ***flawed***, ***misleading***, ***conflicted*** synthesis of evidence
@@ -132,4 +130,4 @@ Summarizing data: risk \| odds
 
 ![](images/trash_metaanalysis.png)
 
-# Good Luck
+## Good Luck
